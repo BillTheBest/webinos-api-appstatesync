@@ -1,0 +1,25 @@
+{
+  "name": "webinos-api-appstatesync",
+  "publishConfig": {
+    "tag": "alpha" 
+  },
+  "description": "AppState Synchronisation API",
+  "keywords": [ "webinos", "app2app", "state", "synchronisation", "API"],
+  "version": "0.0.1",
+  "homepage": "http://webinos.org/",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webinos/webinos-api-appstatesync"
+  },
+  "bugs": {
+    "email": "webinos-wp4-ml@fokus.fraunhofer.de",
+    "url": ""
+  },
+  "directories": {
+  },
+  "main": "./lib/main.js",
+  "devDependencies": {
+    "webinos-jsonrpc2": "*"
+  }
+}
